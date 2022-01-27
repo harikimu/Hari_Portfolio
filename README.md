@@ -4,6 +4,7 @@ Experienced in SQL, VBA, Power BI and Python
 ## [Project1: Automatic Stock Investment & Slack Alert by Python](https://github.com/harikimu/stock_analysis_in_python)
 
 ![](https://pythonforfinance.net/wp-content/uploads/2017/01/Capture2-e1550567465223.png)
+
 Project Description
 * Bullet Point 1
 * Bullet Point 2
