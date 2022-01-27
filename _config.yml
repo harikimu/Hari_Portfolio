@@ -1,5 +1,5 @@
 title: Harry Kim  # your name (or website title) here
-logo: "https://media-exp1.licdn.com/dms/image/C5603AQHy1PqDZPQtaQ/profile-displayphoto-shrink_400_400/0/1621864730540?e=1648684800&v=beta&t=VmVWgH7mbft0HMBtmDC_nSCA0lN9SfdPI3XRiUn241Q" # your photo (or logo) here
+logo: https://media-exp1.licdn.com/dms/image/C5603AQHy1PqDZPQtaQ/profile-displayphoto-shrink_400_400/0/1621864730540?e=1648684800&v=beta&t=VmVWgH7mbft0HMBtmDC_nSCA0lN9SfdPI3XRiUn241Q # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   A home page to expand on my data analysis projects. All source code can be found on my GitHub profile!
   <br><br>
