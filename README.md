@@ -1,5 +1,5 @@
 # Hari_Portfolio
-Harry Kim People Analytics Portfolio
+Experienced in SQL, VBA, Power BI and Python
 
 ## [Project1: Automatic Stock Investment & Slack Alert by Python](https://github.com/harikimu/stock_analysis_in_python)
 * Bullet Point 1
