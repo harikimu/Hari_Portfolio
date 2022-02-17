@@ -16,7 +16,7 @@
 3. [Univariate Analysis (Numerical Variable) by Pandas](https://github.com/harikimu/people_analytics/blob/master/02_pyharry.ipynb)
 
 ![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image2.jpg)
-* Mean
+  - Mean
 * Median
 * Mode
 * Count
