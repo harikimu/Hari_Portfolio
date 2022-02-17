@@ -6,6 +6,9 @@
 
 ## [2. Univariate Analysis (Numerical Variable) by Pandas](https://github.com/harikimu/people_analytics/blob/master/02_pyharry.ipynb)
 
+![](https://github.com/harikimu/people_analytics/blob/master/image/image2.jpg)
+
+
 * Mean
 * Median
 * Mode
@@ -19,6 +22,10 @@
 * Histogram
 
 ## [3. Univariate Analysis (Numerical Variable) by Pandas, Sklearn](https://github.com/harikimu/people_analytics/blob/master/03_pyharry.ipynb)
+
+![](https://github.com/harikimu/people_analytics/blob/master/image/image3.jpg)
+![](https://github.com/harikimu/people_analytics/blob/master/image/image4.jpg)
+
 
 * Skewness
 * Data Standardization (Z-Score Distribution)
