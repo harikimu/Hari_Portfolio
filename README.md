@@ -8,7 +8,7 @@
 
 ## Past Learnings & Projects
 ### 1. [Automated Stock Analysis and Investment by Python](https://github.com/harikimu/stock_analysis_in_python)
-![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image10.jpg)
+![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image11.jpg)
 
 ### 2. [Importing Raw Data and Pre-Data Validation](https://github.com/harikimu/people_analytics/blob/master/01_pyharry.ipynb)
 ![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image1.jpg)
