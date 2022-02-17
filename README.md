@@ -23,7 +23,7 @@
 * Skewness
 * Data Standardization (Z-Score Distribution)
 
-## [4. Univariate Analysis (Categorical Variable) by Pandas, Sklearn](https://github.com/harikimu/people_analytics/blob/master/04_pyharry.ipynb)
+## [4. Univariate Analysis (Categorical Variable) by Pandas](https://github.com/harikimu/people_analytics/blob/master/04_pyharry.ipynb)
 
 * Count
 * Frequency
