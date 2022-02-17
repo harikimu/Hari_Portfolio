@@ -76,6 +76,7 @@
 
 ## [10. Hypothesis Testing by Scipy](https://github.com/harikimu/people_analytics/blob/master/10_pyharry.ipynb)
 
+![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image7.jpg)
 * One Sample T-Test
 * Paired T-Test
 * Chi-Squiare
