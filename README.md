@@ -1,4 +1,4 @@
-# Harry's People Analytics Journey in Python
+# Harry's Journey in Python
 
 ## Current Ongoing Learnings & Projects
 ### 1. Linear Regression & Logistic Regression (Offline)
