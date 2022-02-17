@@ -1,8 +1,11 @@
 # Harry's People Analytics Journey in Python
 
-## Current Ongoing Learning & Project
+## Current Ongoing Learnings & Projects
 * Linear Regression & Logistic Regression (Offline)
 * [People Turnover Forecast (folked from Burunokatekawa)](https://github.com/harikimu/PeopleAnalytics_Turnover)
+
+## Past Learnings & Projects
+* [Automated Stock Analysis and Investment by Python](https://github.com/harikimu/PeopleAnalytics_Turnover)
 
 ### [1. Importing Raw Data and Pre-Data Validation](https://github.com/harikimu/people_analytics/blob/master/01_pyharry.ipynb)
 
@@ -11,8 +14,6 @@
 ### [2. Univariate Analysis (Numerical Variable) by Pandas](https://github.com/harikimu/people_analytics/blob/master/02_pyharry.ipynb)
 
 ![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image2.jpg)
-
-
 * Mean
 * Median
 * Mode
@@ -29,8 +30,6 @@
 
 ![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image3.jpg)
 ![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image4.jpg)
-
-
 * Skewness
 * Data Standardization (Z-Score Distribution)
 
@@ -59,7 +58,6 @@
 ### [7. Bi-variate Analysis (Numerical and Numerical) by Pandas](https://github.com/harikimu/people_analytics/blob/master/07_pyharry.ipynb)
 
 ![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image6.jpg)
-
 * Scatter Plot
 * Scatter Matrix
 * Covariance, Correlation
@@ -93,7 +91,6 @@
 * Dummy Variable (Converting Category into Integer)
 
 ### [12. Variable Transformation by Pandas, Matplotlib, Scipy, Numpy](https://github.com/harikimu/people_analytics/blob/master/12_pyharry.ipynb)
-
 
 ![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image8.jpg)
 * Normalization
