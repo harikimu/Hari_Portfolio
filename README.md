@@ -1,10 +1,10 @@
 # Harry's People Analytics Journey in Python
 
 > Current Ongoing Learnings & Projects
-### • Linear Regression & Logistic Regression (Offline)
-### • [People Turnover Forecast (folked from Burunokatekawa)](https://github.com/harikimu/PeopleAnalytics_Turnover)
+## Linear Regression & Logistic Regression (Offline)
+## [People Turnover Forecast (folked from Burunokatekawa)](https://github.com/harikimu/PeopleAnalytics_Turnover)
 
-## Past Learnings & Projects
+> Past Learnings & Projects
 ### • [Automated Stock Analysis and Investment by Python](https://github.com/harikimu/PeopleAnalytics_Turnover)
 
 ### • [Importing Raw Data and Pre-Data Validation](https://github.com/harikimu/people_analytics/blob/master/01_pyharry.ipynb)
