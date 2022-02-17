@@ -1,17 +1,17 @@
 # Harry's People Analytics Journey in Python
 
 > Current Ongoing Learnings & Projects
-## Linear Regression & Logistic Regression (Offline)
-## [People Turnover Forecast (folked from Burunokatekawa)](https://github.com/harikimu/PeopleAnalytics_Turnover)
+* Linear Regression & Logistic Regression (Offline)
+* [People Turnover Forecast (folked from Burunokatekawa)](https://github.com/harikimu/PeopleAnalytics_Turnover)
 
 > Past Learnings & Projects
-### • [Automated Stock Analysis and Investment by Python](https://github.com/harikimu/PeopleAnalytics_Turnover)
+1. [Automated Stock Analysis and Investment by Python](https://github.com/harikimu/PeopleAnalytics_Turnover)
 
-### • [Importing Raw Data and Pre-Data Validation](https://github.com/harikimu/people_analytics/blob/master/01_pyharry.ipynb)
+2. [Importing Raw Data and Pre-Data Validation](https://github.com/harikimu/people_analytics/blob/master/01_pyharry.ipynb)
 
 ![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image1.jpg)
 
-### • [Univariate Analysis (Numerical Variable) by Pandas](https://github.com/harikimu/people_analytics/blob/master/02_pyharry.ipynb)
+3. [Univariate Analysis (Numerical Variable) by Pandas](https://github.com/harikimu/people_analytics/blob/master/02_pyharry.ipynb)
 
 ![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image2.jpg)
 * Mean
