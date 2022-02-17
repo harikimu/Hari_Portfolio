@@ -2,11 +2,11 @@
 
 ## [1. Importing Raw Data and Pre-Data Validation](https://github.com/harikimu/people_analytics/blob/master/01_pyharry.ipynb)
 
-![](https://github.com/harikimu/people_analytics/blob/master/image/image1.jpg)
+![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image1.jpg)
 
 ## [2. Univariate Analysis (Numerical Variable) by Pandas](https://github.com/harikimu/people_analytics/blob/master/02_pyharry.ipynb)
 
-![](https://github.com/harikimu/people_analytics/blob/master/image/image2.jpg)
+![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image2.jpg)
 
 
 * Mean
@@ -23,8 +23,8 @@
 
 ## [3. Univariate Analysis (Numerical Variable) by Pandas, Sklearn](https://github.com/harikimu/people_analytics/blob/master/03_pyharry.ipynb)
 
-![](https://github.com/harikimu/people_analytics/blob/master/image/image3.jpg)
-![](https://github.com/harikimu/people_analytics/blob/master/image/image4.jpg)
+![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image3.jpg)
+![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image4.jpg)
 
 
 * Skewness
@@ -54,7 +54,7 @@
 
 ## [7. Bi-variate Analysis (Numerical and Numerical) by Pandas](https://github.com/harikimu/people_analytics/blob/master/07_pyharry.ipynb)
 
-![](https://github.com/harikimu/people_analytics/blob/master/image/image6.jpg)
+![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image6.jpg)
 
 * Scatter Plot
 * Scatter Matrix
