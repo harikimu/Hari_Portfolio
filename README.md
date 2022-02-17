@@ -1,6 +1,6 @@
-# My Projects
+# Harry's People Analytics Journey in Python
 
-## [Project1: Automatic Stock Investment & Slack Alert by Python](https://github.com/harikimu/stock_analysis_in_python)
+## [1. Importing Raw Data and Pre-Data Validation](https://github.com/harikimu/people_analytics/blob/master/01_pyharry.ipynb)
 
 ![](https://pythonforfinance.net/wp-content/uploads/2017/01/Capture2-e1550567465223.png)
 
