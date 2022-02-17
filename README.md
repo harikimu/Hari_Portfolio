@@ -24,6 +24,7 @@
 * Histogram
 
 4.[Unvariate Analysis (Numerical Variable) by Pandas, Sklearn](https://github.com/harikimu/people_analytics/blob/master/03_pyharry.ipynb)
+
 ![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image3.jpg)
 ![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image4.jpg)
 * Skewness
