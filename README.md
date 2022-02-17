@@ -2,7 +2,7 @@
 
 ## [1. Importing Raw Data and Pre-Data Validation](https://github.com/harikimu/people_analytics/blob/master/01_pyharry.ipynb)
 
-![](https://github.com/harikimu/people_analytics/blob/master/image/image1.png)
+![](https://github.com/harikimu/people_analytics/blob/master/image/image1.jpg)
 
 ## [2. Univariate Analysis (Numerical Variable) by Pandas](https://github.com/harikimu/people_analytics/blob/master/02_pyharry.ipynb)
 
