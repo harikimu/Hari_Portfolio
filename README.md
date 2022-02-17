@@ -84,4 +84,4 @@
 * Log Transformation
 * Square Root Transformation
 * Cube Root Transformation
-
+* [Binning*](https://github.com/harikimu/people_analytics/blob/master/13_pyharry.ipynb)
