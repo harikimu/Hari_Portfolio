@@ -2,7 +2,7 @@
 
 ## Current Ongoing Learnings & Projects
 ### 1. Linear Regression & Logistic Regression (Offline)
-![]https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image9.jpeg
+![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image9.jpeg)
 
 ### 2. [People Turnover Forecast (folked from Burunokatekawa)](https://github.com/harikimu/PeopleAnalytics_Turnover)
 
