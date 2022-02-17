@@ -90,6 +90,8 @@
 
 ## [12. Variable Transformation by Pandas, Matplotlib, Scipy, Numpy](https://github.com/harikimu/people_analytics/blob/master/12_pyharry.ipynb)
 
+
+![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image8.jpg)
 * Normalization
 * Log Transformation
 * Square Root Transformation
