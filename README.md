@@ -4,6 +4,8 @@
 * Linear Regression & Logistic Regression (Offline)
 * [People Turnover Forecast (folked from Burunokatekawa)](https://github.com/harikimu/PeopleAnalytics_Turnover)
 
+
+
 > Past Learnings & Projects
 1. [Automated Stock Analysis and Investment by Python](https://github.com/harikimu/PeopleAnalytics_Turnover)
 
