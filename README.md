@@ -1,7 +1,7 @@
 # Harry's Journey in Python
 
 ## Current Ongoing Learnings & Projects
-### 1. Linear Regression & Logistic Regression (Offline)
+### 1. Linear Regression & Logistic Regression for People Analytics (Offline)
 ![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image9.jpeg)
 
 ### 2. [People Turnover Forecast (folked from Burunokatekawa)](https://github.com/harikimu/PeopleAnalytics_Turnover)
