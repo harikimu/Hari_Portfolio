@@ -7,7 +7,9 @@
 ### 2. [People Turnover Forecast (folked from Burunokatekawa)](https://github.com/harikimu/PeopleAnalytics_Turnover)
 
 ## Past Learnings & Projects
-### 1. [Automated Stock Analysis and Investment by Python](https://github.com/harikimu/PeopleAnalytics_Turnover)
+### 1. [Automated Stock Analysis and Investment by Python](https://github.com/harikimu/stock_analysis_in_python)
+
+
 ### 2. [Importing Raw Data and Pre-Data Validation](https://github.com/harikimu/people_analytics/blob/master/01_pyharry.ipynb)
 ![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image1.jpg)
 
