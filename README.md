@@ -54,6 +54,8 @@
 
 ## [7. Bi-variate Analysis (Numerical and Numerical) by Pandas](https://github.com/harikimu/people_analytics/blob/master/07_pyharry.ipynb)
 
+![](https://github.com/harikimu/people_analytics/blob/master/image/image6.jpg)
+
 * Scatter Plot
 * Scatter Matrix
 * Covariance, Correlation
