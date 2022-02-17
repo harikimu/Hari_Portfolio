@@ -40,15 +40,15 @@
 * Removing N/A
 * Replacing N/A with 0
 * Replacing N/A with Mean
-7. [Data Clearning (Outliners) by Pandas, Scipy](https://github.com/harikimu/people_analytics/blob/master/06_pyharry.ipynb)
 
+7. [Data Clearning (Outliners) by Pandas, Scipy](https://github.com/harikimu/people_analytics/blob/master/06_pyharry.ipynb)
 * Filtering Data
 * Boxplot
 * Z-Score
 * Capping
 * Flooring
-8. [Bi-variate Analysis (Numerical and Numerical) by Pandas](https://github.com/harikimu/people_analytics/blob/master/07_pyharry.ipynb)
 
+8. [Bi-variate Analysis (Numerical and Numerical) by Pandas](https://github.com/harikimu/people_analytics/blob/master/07_pyharry.ipynb)
 ![](https://raw.githubusercontent.com/harikimu/Hari_Portfolio/main/image/image6.jpg)
 * Scatter Plot
 * Scatter Matrix
