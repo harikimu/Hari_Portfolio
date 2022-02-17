@@ -3,7 +3,7 @@ logo: https://media-exp1.licdn.com/dms/image/C5603AQHy1PqDZPQtaQ/profile-display
 description: # your text below (remove <br> elements if you don't need line breaks)
   A home page to expand on my data analysis projects. All source code can be found on my GitHub profile!
   <br><br>
-  <a href="www.linkedin.com/in/harrykim1">View LinkedIn Profile</a>   
+  <a href="http://www.linkedin.com/in/harrykim1">View LinkedIn Profile</a>   
   
 theme: jekyll-theme-minimal
 classes: wide
