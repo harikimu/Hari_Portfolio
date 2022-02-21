@@ -21,10 +21,10 @@
 * Count
 * Max
 * Min
-* Quantile
+* Quantiles
 * Varirance
 * Standrad Deviation
-* Range, Interquantile Range
+* Range, Interquartile Range
 * Histogram
 
 ### 4. [Unvariate Analysis (Numerical Variable) by Pandas, Sklearn](https://github.com/harikimu/people_analytics/blob/master/03_pyharry.ipynb)
@@ -42,14 +42,14 @@
 * Pie Chart
 
 ### 6. [Data Clearning (Missing Values) by Pandas](https://github.com/harikimu/people_analytics/blob/master/05_pyharry.ipynb)
-* Removing N/A
+* Removing N/A (Counting N/A)
 * Replacing N/A with 0
 * Replacing N/A with Mean
 
 ### 7. [Data Clearning (Outliners) by Pandas, Scipy](https://github.com/harikimu/people_analytics/blob/master/06_pyharry.ipynb)
-* Filtering Data
-* Boxplot
-* Z-Score
+* Filtering Data (Advanced Filter)
+* Detection by Boxplot
+* Detection by Z-Score
 * Capping
 * Flooring
 
